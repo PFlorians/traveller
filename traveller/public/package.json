@@ -1,0 +1,19 @@
+{
+  "name": "traveller",
+  "version": "0.2",
+  "description": "traveller project",
+  "main": "index.phtml",
+  "repository": "github.com/PFlorians/traveller",
+  "author": "Patrik Florians",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-calendar": "^0.2.4",
+    "jquery": "^3.4.1",
+    "less": "^3.9.0",
+    "moment": "^2.24.0",
+    "popper.js": "^1.15.0",
+    "underscore": "^1.9.1"
+  }
+}
