@@ -1,7 +1,6 @@
 <?php
-/**
- * autoloader
- */
+   namespace traveller;
+
    class LdapConnect
    {
      private $radic;

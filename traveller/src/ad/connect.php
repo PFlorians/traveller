@@ -1,8 +1,6 @@
 <?php
-/**
- * autoloader
- */
-   
+    namespace traveller;
+
    if($_SERVER["REQUEST_METHOD"]=="POST")
    {
      $ldp=new LdapConnect("DEUDCFRAN2002.grouphc.net", 389);
