@@ -7,7 +7,7 @@
   "author": "Patrik Florians",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bootstrap": "^4.3.1",
     "bootstrap-calendar": "^0.2.4",
     "jquery": "^3.4.1",
